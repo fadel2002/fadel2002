@@ -1,10 +1,9 @@
 
 ### Hi there 👋, i am fadel
-📫 How to reach me instagram : 
+📫 How to reach me gmail : fadelpm2002@gmail.com instagram : 
 <a href="https://www.instagram.com/pmfadel/">
   pmfadel
 </a>
-, gmail : fadelpm2002@gmail.com
 
 <!--
 **fadel2002/fadel2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
