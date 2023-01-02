@@ -24,5 +24,5 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats-fadel2002.vercel.app//api?username=fadel2002&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-fadel2002.vercel.app/api/top-langs/?username=fadel2002&langs_count=8&layout=compact&hide_title=true&hide_border=true" />
+  <img align="center" src="https://github-readme-stats-fadel2002.vercel.app/api/top-langs/?username=fadel2002&langs_count=3&hide_title=true&hide_border=true" />
 </a>
